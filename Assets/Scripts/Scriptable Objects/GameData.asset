@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c59d89406193e6543937c7bca5eb2383, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  fruits:
+  - FruitPrefab: {fileID: 1534451462194243385, guid: 637a06320de32a247a9178e37eda4121, type: 3}
+    Name: Apple
+    Value: 1
+    Occurance: 0.25
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 7666007353577964305, guid: 8ed71185f1818d8418ba47007ffa085c, type: 3}
+    Name: Watermelon
+    Value: 3
+    Occurance: 0.05
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 3385945884914447112, guid: 5686d02f9d9948540861279c1232b367, type: 3}
+    Name: Pear
+    Value: 2
+    Occurance: 0.1
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 3652584000296789887, guid: 41bf281a02484414e9f4dccbd8ff88b4, type: 3}
+    Name: Pineapple
+    Value: 3
+    Occurance: 0.05
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 431056320356678603, guid: f1be5a7e8531d73488187c66ecada7ae, type: 3}
+    Name: Orange
+    Value: 1
+    Occurance: 0.25
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 9047784400267701785, guid: 953b3001afb2a49418331f37c97c0ddb, type: 3}
+    Name: Peach
+    Value: 2
+    Occurance: 0.1
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 3147648554772827805, guid: 9c8fdad527382e84ba98596e6b1c06bd, type: 3}
+    Name: Mango
+    Value: 2
+    Occurance: 0.1
+    Index: 0
+    _weight: 0
+  - FruitPrefab: {fileID: 2413163475751426800, guid: 8ca644d1205821647b07f70da891bc98, type: 3}
+    Name: Coconut
+    Value: 2
+    Occurance: 0.1
+    Index: 0
+    _weight: 0
